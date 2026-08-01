@@ -1,4 +1,7 @@
 ```markdown id="github-profile-readme"
+<details>
+<summary><b>Click to expand/collapse my profile details</b></summary>
+
 # Hi, I'm Peter Deister 👋
 
 **Business Analysis | SQL | Tableau | Excel Automation | Process Improvement**
@@ -113,3 +116,4 @@ I'm interested in opportunities involving:
 
 Thanks for visiting my profile!
 ```
+<details>

@@ -1,7 +1,4 @@
 ```markdown id="github-profile-readme"
-<details>
-<summary><b>Click to expand/collapse my profile details</b></summary>
-
 # Hi, I'm Peter Deister 👋
 
 **Business Analysis | SQL | Tableau | Excel Automation | Process Improvement**
@@ -11,8 +8,8 @@ I recently earned a **B.S. in Computer Science** and enjoy using technology to s
 My portfolio focuses on practical business scenarios using **Excel, SQL, Tableau, and business analysis techniques** to improve efficiency and support better decision-making.
 
 ---
-
-## 💼 Featured Projects
+<details>
+<summary><strong> 💼 Featured Projects </strong></summary>
 
 ### 📊 Inventory Management Workbook (Excel)
 An inventory tracking solution that automates stock levels, purchase orders, reorder alerts, and inventory reporting.
@@ -46,7 +43,7 @@ Designed an interactive Tableau dashboard to visualize consumer complaint trends
 Created business documentation for a website enhancement project including requirements, user stories, use cases, process flows, and wireframes.
 
 **Skills:** Business Analysis • Requirements Gathering • Process Mapping • Documentation
-
+</details>
 ---
 
 ## 🛠 Technical Skills
